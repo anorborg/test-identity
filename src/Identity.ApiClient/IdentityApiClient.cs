@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using Infrastructure.Security;
+using Common.Security;
 
 namespace Identity.ApiClient
 {
